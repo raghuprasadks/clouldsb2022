@@ -1,0 +1,75 @@
+sindhicloud2021@gmail.com
+Sindhicloud@2021
+
+Heroku..
+same credentials
+
+https://dzone.com/articles/top-35-git-commands-with-examples-and-bonus
+
+echo "# myfirstgitrepo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/raghuprasadks/myfirstgitrepo.git
+git push -u origin main
+
+git remote add origin https://github.com/raghuprasadks/myfirstgitrepo.git
+git branch -M main
+git push -u origin main
+
+one time
+1. git init
+2. create a file called myfirstfile.txt
+3. git add myfirstfile.txt
+4. git commit -m "first commit"
+5. git branch -M main
+6. git remote add origin https://github.com/raghuprasadks/myfirstgitrepo.git
+7. git push -u origin main
+
+For every time
+
+8. git status
+9. git add .
+10. git push -u origin main
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo "# myfirstrepo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/raghuprasadks/myfirstrepo.git
+git push -u origin main
+
+
+git remote add origin https://github.com/raghuprasadks/myfirstrepo.git
+git branch -M main
+git push -u origin main
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

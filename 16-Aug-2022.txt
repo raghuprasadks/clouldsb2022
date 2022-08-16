@@ -1,0 +1,64 @@
+Topics
+1. Web Application
+2. Git commands
+
+Deployment model
+public,private,hybrid
+
+Service model
+IAAS - Infrastructure as a service
+PAAS - platform as a service
+SAAS - software as a service
+
+Cloud service providers
+1. AWS - Amazon Web Services
+2. Microsoft Azure
+3. Google Cloud
+4. Sales Force (CRM - Customer Relationship
+Software) - heroku
+5. Sap labs
+6. Oracle
+sublimetext
+get
+file:///E:/kaushalya.tech/consultancy/SBCollegeMangement/2022/cloudcomputing2022/web/5-success.html?name=raghu&email=prasadraghuks%40gmail.com&mobile=9845547471&sex=on&pg=on&location=Bengaluru&password=test123&submit=Sign+Up
+post
+file:///E:/kaushalya.tech/consultancy/SBCollegeMangement/2022/cloudcomputing2022/web/5-success.html
+
+
+1. git - source code repository
+microsoft
+
+download git for windows
+2. github - create an account
+https://github.com/
+
+kaushalya.tech
+
+Repository
+
+Step 1 - Create a git repository clouldsb2022
+Step 2 - Go to folder which you want to check-in
+cd E:\kaushalya.tech\consultancy\SBCollegeMangement\2022\cloudcomputing2022
+Step 3 - Follow git commands
+
+
+git init
+
+
+echo "# clouldsb2022" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/raghuprasadks/clouldsb2022.git
+git push -u origin main
+
+git commands
+
+
+
+
+
+
+
+

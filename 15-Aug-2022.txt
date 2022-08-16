@@ -1,0 +1,22 @@
+Day 1
+Introduction to cloud
+
+1.Download sublime text
+https://www.sublimetext.com/download
+2. Create a folder called as web
+3. Open folder web from sublimetext
+4. create 1-GettingStarted.html
+<html>
+<title>
+</title>
+<body>
+	<h1>Welcome to Cloud Computing</h1>
+</body>
+</html>
+
+html - hyper text markup languge
+
+https://www.w3schools.com/html/
+
+
+
