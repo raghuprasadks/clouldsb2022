@@ -43,6 +43,13 @@ Step 3 - Follow git commands
 
 
 git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/raghuprasadks/clouldsb2022.git
+git push -u origin main
+
+
 
 
 echo "# clouldsb2022" >> README.md
@@ -52,6 +59,11 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/raghuprasadks/clouldsb2022.git
 git push -u origin main
+
+
+git creates 
+localrepository
+remote repository
 
 git commands
 
