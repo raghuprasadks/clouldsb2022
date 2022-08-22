@@ -1,0 +1,52 @@
+Git
+1. Created account in git hub
+https://github.com/
+2. Created a new repository
+Login to github.com
+click new repository 
+create a new repository
+sbbcawebsite
+
+3. create an account with heroku.com 
+https://www.heroku.com/
+https://signup.heroku.com/
+- salesforce
+4. create a new folder sbbcawebsite
+5. Add index.html
+6. Add index.php
+<?php include_once("index.html") ?>
+7. checkin this website to git repository
+
+cd to sbbcawebsite
+git init
+git add .
+git commit -m "initial page"
+git branch -M main
+git remote add origin https://github.com/raghuprasadks/sbbcawebsite.git
+git push -u origin main
+
+8. Login to heroku.com
+9. new ->create new app
+sbbcawebsite
+
+10. connect to github
+
+and deploy
+
+Commands for any changes
+git status
+git add .
+git commit -m "updated"
+git push -u origin main
+
+
+
+
+
+
+
+
+
+
+
+3. Checked in the code

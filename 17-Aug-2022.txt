@@ -1,3 +1,36 @@
 CSS - Cascading Style Sheet
 Styling web pages - colors,fonts,layouts,text
 icons
+
+setting up git
+Step 1 - create a folder mywebsite
+Step 2 - create index.html
+
+Step 3 - login to https://github.com/
+Step 4 - Click on new repository
+Step 5 - give name as mywebsite
+
+echo "# mywebsite" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/raghuprasadks/mywebsite.git
+git push -u origin main
+
+Step 6 : go to mywebsite folder and type cmd
+
+Step 7 : Execute following commands
+
+commands to follow
+git init
+git add .
+git commit -m "my first commit"
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+git commit -m "my first commit"
+git branch -M main
+git remote add origin https://github.com/SubhankarDey11/mywebsite.git
+git push -u orign main
+
+

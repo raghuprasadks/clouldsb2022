@@ -1,0 +1,41 @@
+1. Introduction to cloud computing
+Deployment models
+Service models
+2. html,css
+3. git
+4. git hub
+5. downloaded git
+6. Cloud platform
+heroku
+7. Created app in heroku
+8. We have created sample page 
+and deployed on heroku
+
+heroku cli -command line interface
+
+
+Steps for 22-Aug-2022
+1. create acccount in heroku
+heroku.com
+https://signup.heroku.com/login
+2. Login to heroku
+3. Create a new app
+4. Download heroku cli
+https://devcenter.heroku.com/articles/heroku-cli#install-the-heroku-cli
+5. create herokuclidemo folder
+6. create index.html and index.php in the herokuclidemo folder
+7. Paste the code which i shared in googlemeet
+8. go to the command prompt of the project herokuclidemo 
+9. git init
+10. heroku git:remote -a clouddemo22082022
+11. git add .
+12. git commit -am "make it better"
+13. git push heroku master
+ https://clouddemo22082022.herokuapp.com/
+
+
+
+
+
+
+
