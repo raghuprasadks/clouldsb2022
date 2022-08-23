@@ -12,5 +12,7 @@ of website for BCA department
 
 CSS And JavaScript
 
+https://www.w3schools.com/css/css_image_gallery.asp
+https://www.w3schools.com/css/css_navbar_horizontal.asp
 
 
