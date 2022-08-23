@@ -1,0 +1,16 @@
+Cloud Computing
+Web
+git
+heroku
+sample page we have deployed heroku
+git
+heroku cli
+
+Agenda :
+Development and deployment 
+of website for BCA department
+
+CSS And JavaScript
+
+
+
