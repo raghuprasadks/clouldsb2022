@@ -1,0 +1,43 @@
+Agenda:
+1. Deploy BCA website template into heroku
+2. Heroku is a cloud platform from salesforce
+
+Pre-requsites
+1. download git
+https://git-scm.com/downloads
+git source code management software
+
+2. Prepare a website
+3. Create account in heroku
+go to heroku.com and sign up
+
+4. Login to heroku
+click create new app
+
+sbbcaws
+5. Download heroku cli for windows
+https://devcenter.heroku.com/articles/heroku-cli#install-the-heroku-cli
+
+6. Deployment steps
+cd project folder
+heroku-login
+first time commands
+
+git init
+heroku git:remote -a sbbcaws
+
+Every time commands
+cd project folder
+heroku-login
+git status
+git add .
+git commit -am "first time deployment"
+git push heroku master
+https://sbbcaws.herokuapp.com/
+
+
+
+
+
+
+
