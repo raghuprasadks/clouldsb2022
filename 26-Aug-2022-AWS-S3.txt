@@ -1,0 +1,42 @@
+Step 1 - Search s3 under serices
+Step 2 - Create bucket sbbcanewws
+uncheck block all public access
+click on I acknowledge
+click on Create Bucket
+
+Step 3 -
+click on the new bucket created i,e sbbcanewws
+ Upload index.html into the bucket
+created
+Step 4 - Under properties of that bucket
+edit static  website hosting
+click on enable
+
+index document
+index.html
+
+Step 4 - sbbcanewws
+click on permission link
+click on edit bucket policy
+paste
+
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "PublicReadGetObject",
+            "Effect": "Allow",
+            "Principal": "*",
+            "Action": [
+                "s3:GetObject"
+            ],
+            "Resource": [
+                "arn:aws:s3:::sbbcaws/*"
+            ]
+        }
+    ]
+}
+
+Step 5 - Under properties tab
+you will have the link to the website
+Bucket website endpoint

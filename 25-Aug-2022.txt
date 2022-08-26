@@ -1,0 +1,39 @@
+Agenda:
+Web - HTML/CSS
+Git 
+Git hub
+1. Heroku
+Deployment using git
+heroku cli - Command line interface
+2. AWS - Amazon Web Service
+
+Service models
+Platform as a service - PAAS - Heroku
+Infrastructure as a service - IAAS - 
+AWS - Service
+Software as a service - SAAS - Git,
+gmail,social media website
+
+https://aws.amazon.com/
+Click on Create an AWS Account
+sign in
+
+Search for ec2
+Click on new instance
+P!jk-Of*DHxq6tqSK)=.oXKKu4oNZqI;
+
+EC2 - Elastic Cloud Compute - Install
+operating system,install software
+RAM,Increase RAM
+S3 - Simple Storage Solution
+It works like a harddisk
+Dynamo DB - Database
+SNS - Simple Notification Service
+Email,SMS
+
+AWS,Azure,Google Cloud
+
+
+1. Create an account in AWS
+2. Login
+3. Search for EC2
