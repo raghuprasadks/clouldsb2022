@@ -42,7 +42,16 @@ https - hypter text transfer protocol secure 443
 3. goto xampp/htdocs folder
 C:\xampp\htdocs create another folder sbbcsws
 4. Create a index.html page inside sbcmbcaws
-localhost/sbbcaws
+localhost/sbcmbcaws
+
+http://192.168.132.177/sbcmbcaws/
+
+go to command prompt
+ipconfig
+ipv4 address 192.168.132.177
+192.168.132.177/sbcmbcaws/
+
+https://www.youtube.com/watch?v=5o8CwafCxnU&list=RDQM7afXJeuHsLg&start_radio=1
 
 
 
