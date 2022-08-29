@@ -1,0 +1,49 @@
+Agenda:
+Web Server - local system
+deploy on AWS - 
+
+download xampp
+Web Server
+data 
+
+Configuring Webserver on local computer
+Web server it is a software on
+which web applications can be deployed
+
+Web application - HTML/CSS
+php,JavaScript
+
+irctc.co.in
+domain/website
+web pages
+hosted on a web server
+
+The Web Servers List
+
+1. Apache HTTP Server
+2. Apache Tomcat
+3. Eclipse Jetty Webserver
+4. Internet Information Services (IIS) - Microsoft
+5. JBoss - Rethat
+6. IBM Websphere
+7. Oracle Weblogic
+
+heroku
+
+
+1. downloap xampp 
+ in case it is not installed
+2. search xampp in windows search bar
+3. Click Start button infront of Apache
+it will start on port http - port 80
+http - hyper text transer protocol 80
+https - hypter text transfer protocol secure 443
+
+3. goto xampp/htdocs folder
+C:\xampp\htdocs create another folder sbbcsws
+4. Create a index.html page inside sbcmbcaws
+localhost/sbbcaws
+
+
+
+
